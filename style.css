@@ -1,0 +1,24 @@
+header{
+    background-color: #cfdee3;
+    padding:5px;
+}
+body{
+    background-color:#e6f1f5;
+}
+h1{
+    color: lightslategrey;
+}
+.basics{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 400px;
+}
+#user-select{
+    width:240px;
+}
+.teste5e6{
+    align-items:center;
+    width:850px;
+    margin: 240px;
+}
